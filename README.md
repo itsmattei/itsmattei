@@ -1,5 +1,4 @@
-# Hi folks! Welcome to my GitHub account 👋
-
+<h1 align="center">Hi folks! Welcome to my GitHub account 👋 </h1>
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsMattei?color=%231DA1F2&label=twitter&logo=Twitter&style=for-the-badge)
 
 <!--
