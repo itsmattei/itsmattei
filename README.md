@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi folks! I'm Michele Mastromattei and welcome to my GitHub account 👋
 
 <!--
 **itsmattei/itsmattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
