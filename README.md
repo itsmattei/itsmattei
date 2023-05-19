@@ -1,8 +1,13 @@
 <h1 align="center">Hi folks! Welcome to my GitHub account 👋 </h1>
 
+<p align="center">
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsMattei?color=%231DA1F2&label=twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/itsmattei)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/itsMattei?color=%231DA1F2&label=twitter&logo=Twitter&style=for-the-badge)
-
+</p>
+  
+  
+  
+ 
 <!--
 **itsmattei/itsmattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
