@@ -1,5 +1,7 @@
 # Hi folks! Welcome to my GitHub account 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/itsMattei?color=%231DA1F2&label=twitter&logo=Twitter&style=for-the-badge)
+
 <!--
 **itsmattei/itsmattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
