@@ -11,7 +11,9 @@
 </div>
   
   <div align="center">
-    <p> I'm <b>Michele </b> (but also known as Mike): a Ph.D. student in the first <a href="https://www.phd-ai.it/en/359-2/">National Italian PhD program in Artificial Intelligence</a> at <a href="https://www.unicampus.it/en"> Campus Bio‑Medico Univesity</a> and <a href="https://web.uniroma2.it/en">the University of Rome Tor Vergata</a>. I'm current a visiting researcher at <a href="https://www.ed.ac.uk/informatics/">The University of Edinburgh.</a> </p>
+  <p>I'm <b>Michele</b> (but also known as Mike): AI Scientist with a PhD in Artificial Intelligence from the joint program at <a href="https://www.unicampus.it/en">Campus Bio-Medico University</a> and <a href="https://web.uniroma2.it/en">the University of Rome Tor Vergata</a>.
+
+My research experience focuses on AI applications in healthcare, safety, and more. I've developed generative AI models for virus prediction at <a href="https://neclab.eu/">NEC Laboratories Europe</a> (Lab: Biological AI), worked on XAI for health data (<a href="https://www.ed.ac.uk/informatics/">the University of Edinburgh</a>), and research fellow in image captioning systems and Explainable AI (the University of Rome Tor Vergata).</p>
     <p> My research interest are: &emsp; :mag: Explainable AI &emsp; :microscope: Biological NLP &emsp; :rainbow: Ethics AI </p>
     <p> <a href="https://itsmattei.github.io/">Go to my own website to read more about me </a></p>
   </div>
